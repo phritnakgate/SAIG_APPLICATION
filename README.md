@@ -2,7 +2,6 @@
 For SAIG Lab application
 
 ## For Login
-<a href="https://saig-application-client.herokuapp.com/">LINK TO DEPLOYED WEBSITE</a>
 
 username: admin
 
